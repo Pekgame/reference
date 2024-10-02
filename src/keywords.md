@@ -114,7 +114,7 @@ is possible to declare a variable or method with the name `union`.
 > **<sup>Lexer</sup>**\
 > KW_MACRO_RULES    : `macro_rules`\
 > KW_UNION          : `union`\
-> KW_STATICLIFETIME : `'static`
+> KW_STATICLIFETIME : `static`
 >
 > **<sup>Lexer 2015</sup>**\
 > KW_DYN            : `dyn`
